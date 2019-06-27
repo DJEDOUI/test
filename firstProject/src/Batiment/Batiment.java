@@ -17,6 +17,7 @@ public class Batiment {
 	public Batiment(String adresse) {
 		super();
 		this.adresse = adresse;
+		this.adresse = adresse;
 	}
 
 	/*
